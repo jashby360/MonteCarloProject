@@ -7,6 +7,6 @@ This is an example of a Monte Carlo simulation taking place.
 
 Coauthors:
 
-Andrew Kim(akim8085) akim5808@gmail.com
+Andrew Kim(akim8085) akim5808@gmail.com, 
 Kwame Asamoa(kwamito92) kasamoa1@student.gsu.edu
 
